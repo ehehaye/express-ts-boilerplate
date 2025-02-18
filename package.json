@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A TS express boilerplate using typedi and routing-controllers.",
   "author": "hongxin.tang@hotmail.com",
-  "homepage": "https://github.com/tanghongxin/express-ts-boilerplate",
+  "homepage": "https://github.com/ehehaye/express-ts-boilerplate",
   "license": "MIT",
   "main": "bundle/index.js",
   "scripts": {

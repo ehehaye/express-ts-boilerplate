@@ -16,7 +16,7 @@ A TS express boilerplate using typedi and routing-controllers.
 ## Dev
 
 ```bash
-git clone https://github.com/tanghongxin/express-ts-boilerplate.git
+git clone https://github.com/ehehaye/express-ts-boilerplate.git
 cd express-ts-boilerplate
 pnpm i
 pnpm dev
